@@ -1,3 +1,5 @@
+<h1>🔭 Welcome to my GitHub – crafting code and analyzing data</h1>
+
 ![Pillars of Creation](https://raw.githubusercontent.com/ascdata/ascdata/main/pillars_of_creation.gif)
 
 <h3> 💻 &nbsp;About Me </h3>
@@ -49,6 +51,7 @@ Currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197571.
 
 ***
 
+<h3> 📊 &nbsp;Statistics</h3>
 <p>
 <a href="https://github.com/ascdata">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ascdata&show_icons=true&theme=radical" />
@@ -58,7 +61,7 @@ Currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197571.
 
 ***
 
-<h3>Open source projects</h3>
+<h3>🔧 &nbsp;Open source projects</h3>
 <table>
   <thead align="center">
     <tr border: none;>
@@ -76,7 +79,7 @@ Currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197571.
 
 ***
 
-<h3>My latest posts</h3>
+<h3>📝 &nbsp;Papers</h3>
 <ul>
   
 </ul>
