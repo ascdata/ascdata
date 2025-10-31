@@ -1,3 +1,5 @@
+![Pillars of Creation](https://raw.githubusercontent.com/ascdata/ascdata/main/pillars_of_creation.gif)
+
 <h3> 💻 &nbsp;About Me </h3>
 <p>
 I am a Data Engineer, passionate about making information from diverse sources visible and understandable. I am particularly fascinated by software development, database systems, and collaborating with people who share the same passion.<br>
