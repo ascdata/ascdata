@@ -4,8 +4,8 @@
 
 <h3> 💻 &nbsp;About Me </h3>
 <p>
-I am a Data Engineer, passionate about making information from diverse sources visible and understandable. I am particularly fascinated by software development, database systems, cybersecurity, and collaborating with people who share the same passion.<br><br>
-My goal is to develop well-documented software solutions and to make security an integral part of the design. I see it as my responsibility to bridge the gap between technology and business strategy and to actively drive digitalization processes forward.<br><br>
+I am a Data Engineer, passionate about making information from diverse sources visible and understandable. I am particularly fascinated by software development, data mining, cybersecurity, and collaborating with people who share the same passion.<br><br>
+My goal is to develop well-documented software solutions that uncover hidden insights in data, while integrating security as a core part of the design. I see it as my responsibility to bridge the gap between technology and business strategy and to actively drive digitalization processes forward.<br><br>
 I began my professional journey in IT infrastructure, gaining over six years of experience. For more than three years, I have been working in the data domain, focusing on data-driven solutions in Business Intelligence<br><br>
 Based in <img src="https://cdn-icons-png.flaticon.com/512/197/197571.png" width="13"/> <b>Germany</b>.
 </p>
@@ -47,6 +47,7 @@ Based in <img src="https://cdn-icons-png.flaticon.com/512/197/197571.png" width=
   <a href="https://www.docker.com/" target="_blank"><img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" /></a>
   <a href="https://kubernetes.io/" target="_blank"><img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" /></a>
   <a href="https://jmeter.apache.org/" target="_blank"><img alt="Apache JMeter" src="https://img.shields.io/badge/-Apache%20JMeter-269539?style=flat-square&logo=apache&logoColor=white" /></a>
+  <a href="https://obsidian.md/" target="_blank"><img alt="ObsidianMD" src="https://img.shields.io/badge/-ObsidianMD-5C5CFF?style=flat-square&logo=obsidian&logoColor=white" /></a>
 </p>
 
 
