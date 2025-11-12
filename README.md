@@ -63,24 +63,6 @@ Based in <img src="https://cdn-icons-png.flaticon.com/512/197/197571.png" width=
 
 ***
 
-<h3>🔧 &nbsp;Open source projects</h3>
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>🎁 Projects</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>📚 Forks</b></td>
-      <td><b>🛎 Issues</b></td>
-      <td><b>📬 Pull requests</b></td>
-    </tr>
-  </thead>
-  <tbody>
- 
-  </tbody>
-</table>
-
-***
-
 <h3>📝 &nbsp;Papers</h3>
 <ul>
   
