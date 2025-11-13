@@ -20,6 +20,13 @@ Based in <img src="https://cdn-icons-png.flaticon.com/512/197/197571.png" width=
 
 ***
 
+<h3>📝 &nbsp;Papers</h3>
+<ul>
+  
+</ul>
+
+***
+
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 <h4>Languages</h4>
@@ -57,13 +64,6 @@ Based in <img src="https://cdn-icons-png.flaticon.com/512/197/197571.png" width=
   <a href="https://jmeter.apache.org/" target="_blank"><img alt="Apache JMeter" src="https://img.shields.io/badge/-Apache%20JMeter-269539?style=flat-square&logo=apache&logoColor=white" /></a>
   <a href="https://obsidian.md/" target="_blank"><img alt="ObsidianMD" src="https://img.shields.io/badge/-ObsidianMD-5C5CFF?style=flat-square&logo=obsidian&logoColor=white" /></a>
 </p>
-
-***
-
-<h3>📝 &nbsp;Papers</h3>
-<ul>
-  
-</ul>
 
 ***
 
