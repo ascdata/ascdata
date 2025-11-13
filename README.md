@@ -12,6 +12,14 @@ Based in <img src="https://cdn-icons-png.flaticon.com/512/197/197571.png" width=
 
 ***
 
+<h3>🔗 &nbsp;Where to find me</h3>
+<p><a href="https://github.com/ascdata" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
+</a> <a href="https://www.linkedin.com/in/schaudin" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+<a href="https://medium.com/@alexander.schaudin" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+</p>
+
+***
+
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 <h4>Languages</h4>
@@ -50,17 +58,6 @@ Based in <img src="https://cdn-icons-png.flaticon.com/512/197/197571.png" width=
   <a href="https://obsidian.md/" target="_blank"><img alt="ObsidianMD" src="https://img.shields.io/badge/-ObsidianMD-5C5CFF?style=flat-square&logo=obsidian&logoColor=white" /></a>
 </p>
 
-
-***
-
-<h3> 📊 &nbsp;GitHub Analytics</h3>
-<p>
-<a href="https://github.com/ascdata">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ascdata&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ascdata&theme=radical&layout=compact&exclude_lang=java+r" />
-</a>
-</p>
-
 ***
 
 <h3>📝 &nbsp;Papers</h3>
@@ -70,8 +67,10 @@ Based in <img src="https://cdn-icons-png.flaticon.com/512/197/197571.png" width=
 
 ***
 
-<h3>🔗 &nbsp;Where to find me</h3>
-<p><a href="https://github.com/ascdata" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
-</a> <a href="https://www.linkedin.com/in/schaudin" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-<a href="https://medium.com/@alexander.schaudin" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+<h3> 📊 &nbsp;GitHub Analytics</h3>
+<p>
+<a href="https://github.com/ascdata">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ascdata&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ascdata&theme=radical&layout=compact&exclude_lang=java+r" />
+</a>
 </p>
