@@ -6,7 +6,7 @@
 <p>
 I am a Data Engineer, passionate about making information from diverse sources visible and understandable. I am particularly fascinated by software development, data mining, cybersecurity, and collaborating with people who share the same passion.<br><br>
 My goal is to develop well-documented software solutions that uncover hidden insights in data, while integrating security as a core part of the design. I see it as my responsibility to bridge the gap between technology and business strategy and to actively drive digitalization processes forward.<br><br>
-I began my professional journey in IT infrastructure, gaining over six years of experience. For more than three years, I have been working in the data domain, focusing on data-driven solutions in Business Intelligence<br><br>
+I began my professional journey in IT infrastructure, gaining over six years of experience. For more than four years, I have been working in the data domain, focusing on data-driven solutions in Business Intelligence<br><br>
 Based in <img src="https://cdn-icons-png.flaticon.com/512/197/197571.png" width="13"/> <b>Germany</b>.
 </p>
 
