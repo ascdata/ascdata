@@ -39,6 +39,8 @@ Based in <img src="https://cdn-icons-png.flaticon.com/512/197/197571.png" width=
   <a href="https://www.jetbrains.com/idea/" target="_blank"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white" /></a>
   <a href="https://restfulapi.net/" target="_blank"><img alt="REST API" src="https://img.shields.io/badge/-REST%20API-FF6C37?style=flat-square" /></a>
   <a href="https://superset.apache.org/" target="_blank"><img alt="Apache Superset" src="https://img.shields.io/badge/-Apache%20Superset-E24E0A?style=flat-square&logo=apache&logoColor=white" /></a>
+  <a href="https://obsidian.md/" target="_blank"><img alt="Obsidian" src="https://img.shields.io/badge/-Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white" /></a>
+  <a href="https://docs.anthropic.com/en/docs/claude-code" target="_blank"><img alt="Claude Code" src="https://img.shields.io/badge/-Claude%20Code-D97706?style=flat-square&logo=anthropic&logoColor=white" /></a>
 </p>
 
 <h4>Databases</h4>
@@ -55,5 +57,4 @@ Based in <img src="https://cdn-icons-png.flaticon.com/512/197/197571.png" width=
   <a href="https://www.docker.com/" target="_blank"><img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" /></a>
   <a href="https://kubernetes.io/" target="_blank"><img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" /></a>
   <a href="https://jmeter.apache.org/" target="_blank"><img alt="Apache JMeter" src="https://img.shields.io/badge/-Apache%20JMeter-269539?style=flat-square&logo=apache&logoColor=white" /></a>
-  <a href="https://obsidian.md/" target="_blank"><img alt="ObsidianMD" src="https://img.shields.io/badge/-ObsidianMD-5C5CFF?style=flat-square&logo=obsidian&logoColor=white" /></a>
 </p>
