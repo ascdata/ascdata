@@ -1,4 +1,4 @@
-<h1>🚀 Welcome to my GitHub – crafting code and analyzing data</h1>
+<h1>🚀 Welcome to my GitHub – data architecture and code, built with passion</h1>
 
 ![Pillars of Creation](https://raw.githubusercontent.com/ascdata/ascdata/main/pillars_of_creation.gif)
 
