@@ -4,8 +4,8 @@
 
 <h3> 💻 &nbsp;About Me </h3>
 <p>
-I am a Data Engineer, passionate about making information from diverse sources visible and understandable. I am fascinated by data architecture, agentic AI coding, and collaborating with people who share the same passion.<br><br>
-My goal is to design scalable data architectures that uncover hidden insights across diverse sources, while using agentic AI coding to speed up development and integrating security as a core part of the design. I am building the foundation that transforms raw data into clear business decisions and pushes digitalization forward.​​​​​​​​​​​​​​​​<br><br>
+I am a Data Engineer passionate about making information from diverse sources visible and understandable. I'm driven by data architecture, agentic AI coding, and collaboration with like-minded people.
+My goal is to build data foundations that reveal hidden insights, with security built in from the start, transforming raw data into clear business decisions that drive digitalization forward.​​​​​​​​​​​​​​​​<br><br>
 I began my professional journey in IT infrastructure, gaining over six years of experience. For more than four years, I have been working in the data domain, focusing on data-driven solutions in Business Intelligence<br><br>
 Based in <img src="https://cdn-icons-png.flaticon.com/512/197/197571.png" width="13"/> <b>Germany</b>.
 </p>
